@@ -168,12 +168,6 @@ a.category-badge > span.badge:hover {
 }
 
 
-.bag-notification-wrapper {
-    height: 100px;
-    overflow-x: hidden;
-    overflow-y: auto;
-}
-
 
 /* -------------------------------- Media Queries */
 
